@@ -291,7 +291,7 @@ header.sticky{
 	justify-content: center;
 	text-align: center;
 	border-radius: 12px;
-	background-image: url(../img/study.jpg);
+	background-image: url(study.jpg);
 	background-size: cover;
 
 }
@@ -306,7 +306,7 @@ header.sticky{
 	justify-content: center;
 	text-align: center;
 	border-radius: 12px;
-	background-image: url(../img/bck.jpg);
+	background-image: url(bck.jpg);
 	background-size: cover;
 
 }
