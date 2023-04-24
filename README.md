@@ -1,4 +1,3 @@
 # Portfolio-Website
 
-
-I am working on it to make fullly responsible website using tailwind css...
+the website is almost fully responsive but I am trying too make 100% responsive.
